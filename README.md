@@ -1,5 +1,5 @@
 # X-Ray-Baggage-Screening-CNN-Analysis
-Classify if the X-ray image of the scanned baggage belongs to restricted items class or not.
+The goal is to classify if the X-ray image of the scanned baggage belongs to restricted items class or not.
 
 Terrorist incidents and security threats have been increasing in the past years. This project is intended to explore the restricted and non-restricted items scan in the baggage at the airports and landmarks for the security purpose, and to locate the restricted items in the baggage that may cause the terrorist incidents and security threats.
 
